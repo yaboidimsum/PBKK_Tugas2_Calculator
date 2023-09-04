@@ -10,6 +10,8 @@ Aplikasi Calculator menggunakan Framework C# yaitu .net. Pada applikasi desktop 
 
 ## Dokumentasi
 
+<img alt="image" src="https://github.com/yaboidimsum/PBKK_Tugas2_Calculator/blob/main/Kalkulator.jpg">
+
 
 ## Referensi
-[https://www.youtube.com/watch?v=uxgnbaaG4T8](http://fajarbaskoro.blogspot.com/2022/02/pbkk-latihan-1-membuat-aplikasi-desktop.html)http://fajarbaskoro.blogspot.com/2022/02/pbkk-latihan-1-membuat-aplikasi-desktop.html
+[https://www.youtube.com/watch?v=uxgnbaaG4T8]
